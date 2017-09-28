@@ -348,7 +348,7 @@ input[type=button], input[type=submit], input[type=reset] {
 
 	.contact_form {
 		width: 550px;
-		margin-left: 30px;
+		margin-left: 0px;
 	}
 	.contact_message {
 		width: 500px;
@@ -499,6 +499,7 @@ input[type=button], input[type=submit], input[type=reset] {
 
 	.about_page {
 		width: 600px;
+		height: 850px;
 		float: none;
 		margin-left: 15px;
 		margin-top: 10px;
@@ -506,8 +507,7 @@ input[type=button], input[type=submit], input[type=reset] {
 
 	.about_img {
 		width: 555px;
-		float: none;
-	
+		float: none;	
 	}
 	/* ---------------------- PORTFOLIO -- */
 	.portfolio_wrapper {
